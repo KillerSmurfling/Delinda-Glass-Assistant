@@ -9,7 +9,7 @@ import keyboard
 from datetime import datetime
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "api key goes here"
 
 # Set up speech recognition
 r = sr.Recognizer()
